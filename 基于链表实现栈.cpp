@@ -1,3 +1,6 @@
+#include<stdio.h>
+#include<string.h>
+#include<stdlib.h> 
 /* 基于链表实现的栈 */
 typedef struct {
     ListNode *top; // 将头节点作为栈顶
